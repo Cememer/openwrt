@@ -7,7 +7,7 @@
 	model = "ELECOM WAB-I1750-PS";
 
 	chosen {
-		bootargs = "console=ttyATH1,115200n8 console=ttyS0,115200n8";
+		bootargs = "console=ttyATH1,115200n8";
 	};
 };
 
