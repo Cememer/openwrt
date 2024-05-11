@@ -68,6 +68,7 @@ ramips_setup_interfaces()
 	asiarf,ap7621-nv1|\
 	beeline,smartbox-flash|\
 	beeline,smartbox-giga|\
+	elecom,wrc-x1800gs|\
 	glinet,gl-mt1300|\
 	iptime,a3002mesh|\
 	jcg,q20|\
